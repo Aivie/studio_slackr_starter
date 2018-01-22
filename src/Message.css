@@ -16,3 +16,13 @@
 .Message-contents {
   margin: 5px 0;
 }
+
+.Message-images {
+  margin: 5px 0;
+  background-color: blue;
+}
+
+.Message-contents-secret {
+  margin: 5px 0;
+  background-color: gray;
+}
